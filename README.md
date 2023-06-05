@@ -44,7 +44,7 @@ This project is a simulation of the [Round Robin algorithm](https://www.geeksfor
 
 The user enters the processes contained in the CPU, as well as their arrival times, interruptions and quantum. From there the algorithm will run and display the scheduling sequence on the CPU.
 
-![image](https://github.com/GabrielBueno200/round-robin-simulator/assets/56837996/584dda1c-3ca0-4174-a127-d6f438e9858a)
+![image](https://github.com/antuniooh/simulation-cpu-round-robin/raw/main/app.gif)
 
 
 <!-- HOW TO RUN -->
